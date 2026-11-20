@@ -1,0 +1,29 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Thermal image datasets
+folder/
+man/
+New folder/
+
+# Generated output
+output/
+arduino_data.csv
+arduino_mlx90614_data.csv
+thermal_object_results_combined.csv
+thermal_object_results_improved.csv
+thermal_object_results_improved_fixed.csv
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
