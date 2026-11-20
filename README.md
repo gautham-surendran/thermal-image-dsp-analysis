@@ -175,6 +175,16 @@ The generated outputs include:
 - Bounding-box coordinates
 - Sensor temperature information, when available
 
+## Screenshots
+
+The following screenshots show the outputs generated during project execution.
+
+- `console_output.png`
+- `output1.png`
+- `output2.png`
+- `output3.png`
+- `output4.png`
+
 ## 6. Dataset
 
 The thermal images used in this project were manually selected from the following Kaggle dataset:
